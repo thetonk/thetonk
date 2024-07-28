@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Spyros and I'm self taught developer, with expertise on back-end. I live in Thessaloniki, Greece. Currently studying (3rd year) Electrical and Computer Engineering at Aristotle University of Thessaloniki. I love everything about computers, from software to hardware. I started learning how to code on 2016 and I'm always down for interesting projects! The main OS I use is linux and especially Debian distribution, since I support open-source and I am deeply concerned about privacy. I self host several apps and services as well. My favorite text editor is Visual Studio Code (of course!). I always enjoy learning something new! My hobbies, besides doing projects, are gaming and listening to music :)
+I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live in Thessaloniki, Greece. Currently studying (4th year) Electrical and Computer Engineering at Aristotle University of Thessaloniki. I love everything about computers, from software to hardware. I started learning how to code on 2016 and I'm always down for interesting projects! The main OS I use is linux and especially Debian distribution, since I support open-source and I am deeply concerned about privacy. I am also interested in linux server security and administration, so self host several apps and services as well, which some of them are available to public. My favorite text editors are Emacs and Visual Studio Code. I always enjoy learning something new! My hobbies, besides doing projects and managing servers, are gaming and listening to music :)
 <br><br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thetonk&count_private=true&show_icons=true&theme=dark)

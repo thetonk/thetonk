@@ -11,7 +11,7 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thetonk&count_private=true&show_icons=true&theme=dark)
 
 ### Profile visitor counter (hosted by me!)
-![Visitor counter](https://counter.sbaltsas.xyz/@thetonk-test?name=thetonk&theme=booru-helltaker&padding=5&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
+![Visitor counter](https://counter.sbaltsas.xyz/@thetonk?name=thetonk&theme=booru-helltaker&padding=5&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
 
 ## 🛠️ Programming languages and technologies I use
 

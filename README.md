@@ -5,12 +5,15 @@
 I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live in Thessaloniki, Greece. Currently studying (5th year) Electrical and Computer Engineering at Aristotle University of Thessaloniki. I love everything about computers, from software to hardware. I started learning how to code on 2016 and I'm always down for interesting projects! The main OS I use is linux and especially Debian distribution, since I support open-source and I am deeply concerned about privacy. I am also interested in linux server security and administration, so self host several apps and services as well, which some of them are available to public. My favorite text editors are Emacs and Visual Studio Code. I always enjoy learning something new! My hobbies, besides doing projects and managing servers, are gaming and listening to music :)
 <br><br>
 
+
+### GitHub stats
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thetonk&count_private=true&show_icons=true&theme=dark)
-![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=thetonk&theme=dark)  
 
+### Profile visitor counter (hosted by me!)
+![Visitor counter](https://counter.sbaltsas.xyz/@thetonk-test?name=thetonk&theme=booru-helltaker&padding=5&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
 
-## 🛠️ Programming languages and technologies that I use
-<br>
+## 🛠️ Programming languages and technologies I use
 
 ### Back-end:
  <details open>
@@ -92,7 +95,6 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
  </details>
 <br>
 
-
 ### Front-end web development:
  <table>
     <tr align="vtop">
@@ -109,7 +111,8 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
 <br>
 
 ### Version control:
- - Git and Github
+ - Git (GitHub and GitLab)
+ - Mercurial
 
 ### Text editors and IDEs that I use:
  - Visual Studio Code
@@ -118,13 +121,16 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
  - Android Studio
  - PyCharm
  - IntelliJ
- - Emacs (seldom :p)
+ - Emacs (mainly for document writing)
 
 <br>
 
 ## 🤙 Hit me on
 <table>
     <tr>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/spbaltsas"><img width=32px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+        </td>
         <td align="center">
             <a href="https://www.facebook.com/profile.php?id=100010793558518"><img width=32px src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>
         </td>

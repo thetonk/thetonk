@@ -8,10 +8,12 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
 
 ### GitHub stats
 
+(To be fixed soon™)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thetonk&count_private=true&show_icons=true&theme=dark)
 
 ### Profile visitor counter (hosted by me!)
-![Visitor counter](https://counter.sbaltsas.xyz/@thetonk?name=thetonk&theme=booru-helltaker&padding=5&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
+![Visitor counter](https://counter.sbaltsas.xyz/@thetonk?name=thetonk&theme=booru-helltaker&padding=6&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
 
 ## 🛠️ Programming languages and technologies I use
 
@@ -23,37 +25,37 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
         <tr valign="top">
                 <td width="80px" align="center">
                 <span><strong>Python</strong></span><br>
-                <img height="32px" src="icons/python.png">
+                <img height="32px" src="img/icons/python.png">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>Java</strong></span><br>
-                <img height="32" src="icons/java.png">
+                <img height="32" src="img/icons/java.png">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>C / C++</strong></span><br>
-                <img height="32" src="icons/cpp.svg">
+                <img height="32" src="img/icons/cpp.svg">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>C#</strong></span><br>
-                <img height="32" src="icons/cs.png">
+                <img height="32" src="img/icons/cs.png">
                 </td>
         </tr>
         <tr valign="top">
                 <td width="80px" align="center">
                 <span><strong>Bash</strong></span><br>
-                <img height="32px" src="icons/bash.png">
+                <img height="32px" src="img/icons/bash.png">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>SQL</strong></span><br>
-                <img height="32px" src="icons/postgresql.png">
+                <img height="32px" src="img/icons/postgresql.png">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>JavaScript</strong></span><br>
-                <img height="32px" src="icons/JS.png">
+                <img height="32px" src="img/icons/JS.png">
                 </td>
                 <td width="80px" align="center">
                 <span><strong>Flux</strong></span><br>
-                <img height="42px" src="icons/flux.svg">
+                <img height="42px" src="img/icons/flux.svg">
                 </td>
         </tr>
     </table>
@@ -66,29 +68,29 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
         <tr align="vtop">
             <td width="80px" align="center">
                 <span><strong>Android Studio</strong></span><br>
-                <img height="32px" src="icons/Android_Studio.png">
+                <img height="32px" src="img/icons/Android_Studio.png">
             </td>
             <td width="80px" align="center">
                 <span><strong>QT</strong></span><br>
-                <img height="32px" src="icons/qt.png">
+                <img height="32px" src="img/icons/qt.png">
             </td>
             <td width="80px" align="center">
                 <span><strong>WxWidgets</strong></span><br>
-                <img height="32px" src="icons/WxWidgets.svg">
+                <img height="32px" src="img/icons/WxWidgets.svg">
             </td>
         </tr>
         <tr>
             <td width="100px" align="center">
                 <span><strong>InfluxDB</strong></span><br>
-                <img height="32px" src="icons/influxdblogo.svg">
+                <img height="32px" src="img/icons/influxdblogo.svg">
             </td>
             <td width="100px" align="center">
                 <span><strong>NodeJS</strong></span><br>
-                <img height="32px" src="icons/nodejs.png">
+                <img height="32px" src="img/icons/nodejs.png">
             </td>
             <td width="100px" align="center">
                 <span><strong>Flask</strong></span><br>
-                <img height="42px" src="icons/flask.png">
+                <img height="42px" src="img/icons/flask.png">
             </td>
         </tr>
     </table>
@@ -100,11 +102,11 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
     <tr align="vtop">
         <td width="80px" align="center">
                 <span><strong>HTML</strong></span><br>
-                <img height="32px" src="icons/HTML.png">
+                <img height="32px" src="img/icons/HTML.png">
         </td>
         <td width="80px" align="center">
                 <span><strong>CSS</strong></span><br>
-                <img height="32px" src="icons/CSS.png">
+                <img height="32px" src="img/icons/CSS.png">
         </td>
     </tr>
  </table>
@@ -138,7 +140,7 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
             <a href="https://www.instagram.com/_sbaltsas_/"><img width=32px src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
         </td>
         <td align="center">
-            <a href="mailto:sbaltsas@yahoo.gr">sbaltsas@yahoo.gr</a>
+            <a href="mailto:mymail@sbaltsas.xyz">mymail@sbaltsas.xyz</a>
         </td>
     </tr>
 </table>

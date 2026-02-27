@@ -2,7 +2,7 @@ name: Update README statistics cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *" #update once a month, we don't need frequent updates
   workflow_dispatch:
   push:
     branches:
@@ -22,11 +22,18 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&card_width=400px
           path: img/stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT}}
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook&langs_count=6
           path: img/stats/top_langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add img/stats/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

@@ -1,0 +1,32 @@
+name: Update README statistics cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  permissions:
+    contents: write
+  steps:
+    - name: Checkout profile repository
+      uses: actions/checkout@v6
+    - name: Generate stats card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: stats
+        options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&card_width=400px
+        path: img/stats/stats.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate top languages card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: top-langs
+        options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook&langs_count=6
+        path: img/stats/top_langs.svg
+        token: ${{ secrets.GITHUB_TOKEN }}

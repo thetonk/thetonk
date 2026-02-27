@@ -6,11 +6,9 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
 <br><br>
 
 
-### GitHub stats
+### GitHub stats for nerds
 
-(To be fixed soon™)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=thetonk&count_private=true&show_icons=true&theme=dark)
+![Github stats](./img/stats/stats.svg)
 
 ### Profile visitor counter (hosted by me!)
 ![Visitor counter](https://counter.sbaltsas.xyz/@thetonk?name=thetonk&theme=booru-helltaker&padding=6&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)

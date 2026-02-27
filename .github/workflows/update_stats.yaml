@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook,dart&langs_count=6&theme=dark&size_weight=0.2&count_weight=0.8
           path: img/stats/top_langs.svg
           token: ${{ secrets.PAT }}
       - name: Commit cards

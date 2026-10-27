@@ -2,7 +2,7 @@ name: Update README statistics cards
 
 on:
   schedule:
-    - cron: "0 0 1 * *" #update once a month, we don't need frequent updates
+    - cron: "0 0 1 * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,10 +17,10 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v6
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&card_width=400px
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&include_all_commits=true&card_width=400px
           path: img/stats/stats.svg
           token: ${{ secrets.PAT}}
       - name: Generate top languages card

@@ -2,18 +2,23 @@
 
 ## About me
 
-I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live in Thessaloniki, Greece. Currently studying (5th year) Electrical and Computer Engineering at Aristotle University of Thessaloniki. I love everything about computers, from software to hardware. I started learning how to code on 2016 and I'm always down for interesting projects! The main OS I use is Linux and especially Debian distribution, since I support open-source and I am deeply concerned about privacy. I am also interested in linux server security and administration, so self host several apps and services as well, which some of them are available to public. My favorite text editors are Emacs and Visual Studio Code. I always enjoy learning something new! My hobbies, besides doing projects and managing servers, are gaming and listening to music :)
+I'm Spyros Baltsas, a software engineer with expertise on back-end. I live in Thessaloniki, Greece and studied Electrical and Computer Engineering at Aristotle University of Thessaloniki. Currently working as Cybersecurity and AI researcher at ITI, which is part of CERTH. I love everything about computers, from software to hardware. I started learning how to code on 2016 and I'm always down for interesting projects! The Operaing System I prefer and daily drive is Linux (because we all know how much Windows sucks from many aspects) and especially the Debian and Fedora distributions, since I support open-source and I am deeply concerned about privacy and security. I am also interested in linux server security, administration and computer networking, so I self host several apps and services as well, which some of them are available to public. My favorite text editors are Sublime Text and Emacs. I always enjoy learning something new! My hobbies, besides doing projects and managing servers, are gaming and listening to music :)
 <br><br>
 
 
 ### GitHub stats for nerds
 
-![Github stats](./img/stats/stats.svg)
+<div>
+    <img src="img/stats/stats.svg" style="vertical-align: top;"/>
+    &nbsp; &nbsp;
+    <img src="img/stats/top_langs.svg" style="vertical-align: top;"/>
+</div>
 
 ### Profile visitor counter (hosted by me!)
 ![Visitor counter](https://counter.sbaltsas.xyz/@thetonk?name=thetonk&theme=booru-helltaker&padding=6&offset=0&align=bottom&scale=0.9&pixelated=1&darkmode=auto)
 
 ## 🛠️ Programming languages and technologies I use
+The list is old and incomplete, I will fill it up properly soon :tm:
 
 ### Back-end:
  <details open>
@@ -111,17 +116,16 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
 <br>
 
 ### Version control:
- - Git (GitHub and GitLab)
+ - Git
  - Mercurial
 
-### Text editors and IDEs that I use:
- - Visual Studio Code
- - Visual Studio
- - Eclipse
+### Text editors and IDEs I use:
+ - Sublime Text
+ - Visual Studio Cod
+ - Emacs (mainly for document writing)
  - Android Studio
  - PyCharm
  - IntelliJ
- - Emacs (mainly for document writing)
 
 <br>
 
@@ -130,12 +134,6 @@ I'm Spyros Baltsas, a self taught developer, with expertise on back-end. I live 
     <tr>
         <td align="center">
             <a href="https://www.linkedin.com/in/spbaltsas"><img width=32px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-        </td>
-        <td align="center">
-            <a href="https://www.facebook.com/profile.php?id=100010793558518"><img width=32px src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>
-        </td>
-        <td align="center">
-            <a href="https://www.instagram.com/_sbaltsas_/"><img width=32px src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
         </td>
         <td align="center">
             <a href="mailto:mymail@sbaltsas.xyz">mymail@sbaltsas.xyz</a>

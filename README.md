@@ -121,7 +121,7 @@ The list is old and incomplete, I will fill it up properly soon :tm:
 
 ### Text editors and IDEs I use:
  - Sublime Text
- - Visual Studio Cod
+ - Visual Studio Code
  - Emacs (mainly for document writing)
  - Android Studio
  - PyCharm
